@@ -6,3 +6,4 @@ Hello, I’m Shengbin Duan 👋
 - 🌱 Interested in EEG  
 - 💬 Ask me about: Python, EEG  
 - ⚡ Hobby: Playing basketball  
+- 📧 Email：shengbinduan666@gmail.com
